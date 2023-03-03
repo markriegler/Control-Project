@@ -10,7 +10,7 @@ The numerical optimization algoritms are:
 
 ## Overview
 
-`/data/` contains the iterations' cost functional, its derivative and the chosen stepsizes as `.csv`-files.
-`/plots/` contains plots which were produced by the postprocessing and the Juypter notebooks of the methods
-`ConditionedGradient.ipynb` and `ProjectedGradient.ipynb` contain the optimization problems
-  - The main parameters to be tweaked are located in cell [5]. `case` determines which examples/parameter configureations to be run.
+- `/data/` contains the iterations' cost functional, its derivative and the chosen stepsizes as `.csv`-files.
+- `/plots/` contains plots which were produced by the postprocessing and the Juypter notebooks of the methods
+- `ConditionedGradient.ipynb` and `ProjectedGradient.ipynb` contain the optimization problems
+  - The main parameters to be tweaked are located in cell [5]. `case` determines which examples/parameter configurations to be run.
